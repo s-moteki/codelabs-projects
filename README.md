@@ -5,5 +5,5 @@
 
 ## 進捗  
 
-[HelloWorldApp プロジェクト](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-b/index.html?index=..%2F..android-training#9)  
+[HelloWorldApp プロジェクト](https://github.com/s-moteki/codelabs-projects/tree/master/HelloWorldApp)  
 → 内容 : 中身はHelloWordではなく、 様々なレイアウト、イベントバインドなどの学習で実装した簡単なカウントアップアプリ  
