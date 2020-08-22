@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <dimen name="padding_regular">10dp</dimen>
+    <dimen name="line_spacing">5dp</dimen>
+    <dimen name="scroll_spacing">20dp</dimen>
+    <dimen name="sub_title_width">100dp</dimen>
+</resources>

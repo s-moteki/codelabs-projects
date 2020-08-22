@@ -7,3 +7,6 @@
 
 [HelloWorldApp プロジェクト](https://github.com/s-moteki/codelabs-projects/tree/master/HelloWorldApp)  
 → 内容 : 中身はHelloWordではなく、 様々なレイアウト、イベントバインドなどの学習で実装した簡単なカウントアップアプリ  
+
+[TextAndScrolling プロジェクト](https://github.com/s-moteki/codelabs-projects/tree/master/TextAndScrolling)  
+→ 内容 :   ScrollViewとアクティブなwebリンク
